@@ -1,3 +1,7 @@
+====	v0.0.2	=====
+rectified compatiblity error test-angular-cordova v0.0.7
+
+
 <<<<<<< HEAD
 # Mobile Angular UI
 
