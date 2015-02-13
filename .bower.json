@@ -1,0 +1,49 @@
+{
+  "name": "mobile-angular-ui",
+  "homepage": "https://github.com/mcasimir/mobile-angular-ui",
+  "authors": [
+    "mcasimir <maurizio.cas@gmail.com>"
+  ],
+  "description": "Mobile UI for Bootstrap 3 and Angular JS",
+  "main": [
+    "dist/css/mobile-angular-ui-base.css",
+    "dist/css/mobile-angular-ui-desktop.min.css",
+    "dist/js/mobile-angular-ui.min.js",
+    "dist/js/mobile-angular-ui.gestures.js"
+  ],
+  "keywords": [
+    "mobile-angular-ui",
+    "angularjs",
+    "boostrap3",
+    "angular-mobile",
+    "mobile-ui",
+    "boostrap3-mobile"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "site",
+    "experiments",
+    "gh-pages",
+    "tmp"
+  ],
+  "devDependencies": {
+    "font-awesome": "4",
+    "bootstrap": "3",
+    "fastclick": "1",
+    "overthrow": "0.7"
+  },
+  "_release": "2ee2c287a9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "2ee2c287a9311d20dbc8fae2ffd298bf7cd2dd89"
+  },
+  "_source": "git://github.com/ranrolls/bower-mobile-angular-ui-1.2.git",
+  "_target": "*",
+  "_originalSource": "bower-mobile-angular-ui-1.2"
+}
